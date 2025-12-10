@@ -29,6 +29,6 @@ Internal tests show potential for further significant reductions in parsing time
 
 To build from source:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/oryaml](https://github.com/YOUR_USERNAME/oryaml)
+git clone https://github.com/AshhadDevLab/oryaml.git
 cd oryaml
 maturin develop --release
